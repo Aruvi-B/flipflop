@@ -1,6 +1,6 @@
-const int red = 5;
-const int yellow = 17;
-const int green = 16;
+const int red = 4;
+const int yellow = 3;
+const int green = 2;
 
 void setup() {
   Serial.begin(9600); 
